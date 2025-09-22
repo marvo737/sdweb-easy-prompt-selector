@@ -2,16 +2,46 @@ from pathlib import Path
 import random
 import re
 import yaml
+import shutil
+import os
 import gradio as gr
 
 import modules.scripts as scripts
 from modules.scripts import AlwaysVisible, basedir
 from modules import shared
-from scripts.setup import write_filename_list
 
 FILE_DIR = Path().absolute()
 BASE_DIR = Path(basedir())
+TEMP_DIR = FILE_DIR.joinpath('tmp')
+
 TAGS_DIR = BASE_DIR.joinpath('tags')
+EXAMPLES_DIR = BASE_DIR.joinpath('tags_examples')
+
+FILENAME_LIST = 'easyPromptSelector.txt'
+
+os.makedirs(TEMP_DIR, exist_ok=True)
+
+def examples():
+    return EXAMPLES_DIR.rglob("*.yml")
+
+def copy_examples():
+    for file in examples():
+        file_path = str(file).replace('tags_examples', 'tags')
+        shutil.copy2(file, file_path)
+
+def tags():
+    return TAGS_DIR.rglob("*.yml")
+
+def write_filename_list():
+    filepaths = map(lambda path: path.relative_to(FILE_DIR).as_posix(), list(tags()))
+
+    with open(TEMP_DIR.joinpath(FILENAME_LIST), 'w', encoding="utf-8") as f:
+        f.write('\n'.join(sorted(filepaths)))
+
+if len(list(TAGS_DIR.rglob("*.yml"))) == 0:
+    copy_examples()
+
+write_filename_list()
 
 def tag_files():
     return TAGS_DIR.rglob("*.yml")
@@ -94,7 +124,6 @@ class Script(scripts.Script):
             return None
 
         reload_button = gr.Button('🔄', variant='secondary', elem_id='easy_prompt_selector_reload_button')
-        reload_button.style(size='sm')
 
         def reload():
             self.tags = load_tags()
