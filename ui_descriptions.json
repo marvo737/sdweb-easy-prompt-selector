@@ -1,0 +1,645 @@
+{
+  "version": 1,
+  "items": {
+    "6_キャラプリセット:キャラクタープリセット:AIris:フルセット": {
+      "value": "1girl, solo, (auburn hair:1.4), (long hair, messy hair, hair over one eye, hair over shoulder:1.3), blue gray eyes, long eyelashes, tall, freckles, calm expression, light smile, slightly tired eyes",
+      "description": "AIris：外見と表情をまとめた1人用のセット。",
+      "parts": [
+        [
+          "髪",
+          "赤茶・ロング・くせ毛・片目に髪"
+        ],
+        [
+          "瞳",
+          "青灰・長いまつげ"
+        ],
+        [
+          "体型・特徴",
+          "長身・そばかす"
+        ],
+        [
+          "表情",
+          "穏やか・微笑み・少し疲れた目"
+        ]
+      ]
+    },
+    "6_キャラプリセット:キャラクタープリセット:AIris:雰囲気・性格": {
+      "value": "calm expression, light smile, slightly tired eyes",
+      "description": "AIris：穏やか・微笑み・少し疲れた目",
+      "parts": [
+        [
+          "表情",
+          "穏やか・微笑み・少し疲れた目"
+        ]
+      ]
+    },
+    "6_キャラプリセット:キャラクタープリセット:AIris:髪型": {
+      "value": "(auburn hair:1.4), (long hair, messy hair, hair over one eye, hair over shoulder:1.3)",
+      "description": "AIris：赤茶・ロング・くせ毛・片目に髪",
+      "parts": [
+        [
+          "髪",
+          "赤茶・ロング・くせ毛・片目に髪"
+        ]
+      ]
+    },
+    "6_キャラプリセット:キャラクタープリセット:AIris:目元": {
+      "value": "blue gray eyes, long eyelashes",
+      "description": "AIris：青灰・長いまつげ",
+      "parts": [
+        [
+          "瞳",
+          "青灰・長いまつげ"
+        ]
+      ]
+    },
+    "6_キャラプリセット:キャラクタープリセット:AIris:体型・特徴": {
+      "value": "tall, freckles",
+      "description": "AIris：長身・そばかす",
+      "parts": [
+        [
+          "体型・特徴",
+          "長身・そばかす"
+        ]
+      ]
+    },
+    "0_Illustriousクイックスタート:完成プロンプト（キャラ＋ランダムシーン）:AIris": {
+      "value": "@1_プロンプト基本:品質:Illustrious向け:アニメイラスト@, @6_キャラプリセット:キャラクタープリセット:AIris:フルセット@, @8_プロンプト構成プリセット:プロンプト構成プリセット:写真集ランダム基本@",
+      "description": "AIrisの外見と品質を指定し、街歩き・カフェ・私室・海辺・夜のお出かけの5シーンから選びます。",
+      "parts": [
+        [
+          "髪",
+          "赤茶・ロング・くせ毛・片目に髪"
+        ],
+        [
+          "瞳",
+          "青灰・長いまつげ"
+        ],
+        [
+          "体型・特徴",
+          "長身・そばかす"
+        ],
+        [
+          "表情",
+          "穏やか・微笑み・少し疲れた目"
+        ]
+      ]
+    },
+    "6_キャラプリセット:キャラクタープリセット:Alice:フルセット": {
+      "value": "1girl, solo, (golden blonde hair:1.4), (long hair, wavy hair, half updo, blue hair ribbon, parted bangs:1.3), sky blue eyes, round eyes, long eyelashes, sparkling eyes, petite, slender, pale skin, light freckles, cheerful, curious, smile",
+      "description": "Alice：外見と表情をまとめた1人用のセット。",
+      "parts": [
+        [
+          "髪",
+          "金髪・ウェーブ・ハーフアップ・青リボン"
+        ],
+        [
+          "瞳",
+          "空色・丸い目・輝く瞳"
+        ],
+        [
+          "体型・特徴",
+          "小柄・細身・色白・薄いそばかす"
+        ],
+        [
+          "表情",
+          "明るい・好奇心・笑顔"
+        ]
+      ]
+    },
+    "6_キャラプリセット:キャラクタープリセット:Alice:雰囲気・性格": {
+      "value": "cheerful, curious, smile",
+      "description": "Alice：明るい・好奇心・笑顔",
+      "parts": [
+        [
+          "表情",
+          "明るい・好奇心・笑顔"
+        ]
+      ]
+    },
+    "6_キャラプリセット:キャラクタープリセット:Alice:髪型": {
+      "value": "(golden blonde hair:1.4), (long hair, wavy hair, half updo, blue hair ribbon, parted bangs:1.3)",
+      "description": "Alice：金髪・ウェーブ・ハーフアップ・青リボン",
+      "parts": [
+        [
+          "髪",
+          "金髪・ウェーブ・ハーフアップ・青リボン"
+        ]
+      ]
+    },
+    "6_キャラプリセット:キャラクタープリセット:Alice:目元": {
+      "value": "sky blue eyes, round eyes, long eyelashes, sparkling eyes",
+      "description": "Alice：空色・丸い目・輝く瞳",
+      "parts": [
+        [
+          "瞳",
+          "空色・丸い目・輝く瞳"
+        ]
+      ]
+    },
+    "6_キャラプリセット:キャラクタープリセット:Alice:体型・特徴": {
+      "value": "petite, slender, pale skin, light freckles",
+      "description": "Alice：小柄・細身・色白・薄いそばかす",
+      "parts": [
+        [
+          "体型・特徴",
+          "小柄・細身・色白・薄いそばかす"
+        ]
+      ]
+    },
+    "0_Illustriousクイックスタート:完成プロンプト（キャラ＋ランダムシーン）:Alice": {
+      "value": "@1_プロンプト基本:品質:Illustrious向け:アニメイラスト@, @6_キャラプリセット:キャラクタープリセット:Alice:フルセット@, @8_プロンプト構成プリセット:プロンプト構成プリセット:写真集ランダム基本@",
+      "description": "Aliceの外見と品質を指定し、街歩き・カフェ・私室・海辺・夜のお出かけの5シーンから選びます。",
+      "parts": [
+        [
+          "髪",
+          "金髪・ウェーブ・ハーフアップ・青リボン"
+        ],
+        [
+          "瞳",
+          "空色・丸い目・輝く瞳"
+        ],
+        [
+          "体型・特徴",
+          "小柄・細身・色白・薄いそばかす"
+        ],
+        [
+          "表情",
+          "明るい・好奇心・笑顔"
+        ]
+      ]
+    },
+    "6_キャラプリセット:キャラクタープリセット:Altair:フルセット": {
+      "value": "1girl, solo, (silver hair:1.4), (very long hair, straight hair, shiny hair, swept bangs:1.3), pale violet eyes, almond-shaped eyes, long eyelashes, starry eye highlights, tall, slim, long legs, pale skin, composed expression, aloof, slight smirk",
+      "description": "Altair：外見と表情をまとめた1人用のセット。",
+      "parts": [
+        [
+          "髪",
+          "銀髪・長いストレート・横に流した前髪"
+        ],
+        [
+          "瞳",
+          "淡い紫・アーモンド形・星のハイライト"
+        ],
+        [
+          "体型・特徴",
+          "長身・細身・長い脚・色白"
+        ],
+        [
+          "表情",
+          "落ち着き・クール・かすかな笑み"
+        ]
+      ]
+    },
+    "6_キャラプリセット:キャラクタープリセット:Altair:雰囲気・性格": {
+      "value": "composed expression, aloof, slight smirk",
+      "description": "Altair：落ち着き・クール・かすかな笑み",
+      "parts": [
+        [
+          "表情",
+          "落ち着き・クール・かすかな笑み"
+        ]
+      ]
+    },
+    "6_キャラプリセット:キャラクタープリセット:Altair:髪型": {
+      "value": "(silver hair:1.4), (very long hair, straight hair, shiny hair, swept bangs:1.3)",
+      "description": "Altair：銀髪・長いストレート・横に流した前髪",
+      "parts": [
+        [
+          "髪",
+          "銀髪・長いストレート・横に流した前髪"
+        ]
+      ]
+    },
+    "6_キャラプリセット:キャラクタープリセット:Altair:目元": {
+      "value": "pale violet eyes, almond-shaped eyes, long eyelashes, starry eye highlights",
+      "description": "Altair：淡い紫・アーモンド形・星のハイライト",
+      "parts": [
+        [
+          "瞳",
+          "淡い紫・アーモンド形・星のハイライト"
+        ]
+      ]
+    },
+    "6_キャラプリセット:キャラクタープリセット:Altair:体型・特徴": {
+      "value": "tall, slim, long legs, pale skin",
+      "description": "Altair：長身・細身・長い脚・色白",
+      "parts": [
+        [
+          "体型・特徴",
+          "長身・細身・長い脚・色白"
+        ]
+      ]
+    },
+    "0_Illustriousクイックスタート:完成プロンプト（キャラ＋ランダムシーン）:Altair": {
+      "value": "@1_プロンプト基本:品質:Illustrious向け:アニメイラスト@, @6_キャラプリセット:キャラクタープリセット:Altair:フルセット@, @8_プロンプト構成プリセット:プロンプト構成プリセット:写真集ランダム基本@",
+      "description": "Altairの外見と品質を指定し、街歩き・カフェ・私室・海辺・夜のお出かけの5シーンから選びます。",
+      "parts": [
+        [
+          "髪",
+          "銀髪・長いストレート・横に流した前髪"
+        ],
+        [
+          "瞳",
+          "淡い紫・アーモンド形・星のハイライト"
+        ],
+        [
+          "体型・特徴",
+          "長身・細身・長い脚・色白"
+        ],
+        [
+          "表情",
+          "落ち着き・クール・かすかな笑み"
+        ]
+      ]
+    },
+    "6_キャラプリセット:キャラクタープリセット:Alexandria:フルセット": {
+      "value": "1girl, solo, (dark brown hair:1.4), (long hair, wavy hair, voluminous hair, parted bangs:1.3), amber eyes, almond-shaped eyes, long eyelashes, tall, statuesque, lightly tanned skin, mature, composed expression, light smile",
+      "description": "Alexandria：外見と表情をまとめた1人用のセット。",
+      "parts": [
+        [
+          "髪",
+          "深茶・長いウェーブ・ボリュームのある髪"
+        ],
+        [
+          "瞳",
+          "琥珀・アーモンド形・長いまつげ"
+        ],
+        [
+          "体型・特徴",
+          "長身・堂々とした体格・薄い日焼け"
+        ],
+        [
+          "表情",
+          "大人びた落ち着き・微笑み"
+        ]
+      ]
+    },
+    "6_キャラプリセット:キャラクタープリセット:Alexandria:雰囲気・性格": {
+      "value": "mature, composed expression, light smile",
+      "description": "Alexandria：大人びた落ち着き・微笑み",
+      "parts": [
+        [
+          "表情",
+          "大人びた落ち着き・微笑み"
+        ]
+      ]
+    },
+    "6_キャラプリセット:キャラクタープリセット:Alexandria:髪型": {
+      "value": "(dark brown hair:1.4), (long hair, wavy hair, voluminous hair, parted bangs:1.3)",
+      "description": "Alexandria：深茶・長いウェーブ・ボリュームのある髪",
+      "parts": [
+        [
+          "髪",
+          "深茶・長いウェーブ・ボリュームのある髪"
+        ]
+      ]
+    },
+    "6_キャラプリセット:キャラクタープリセット:Alexandria:目元": {
+      "value": "amber eyes, almond-shaped eyes, long eyelashes",
+      "description": "Alexandria：琥珀・アーモンド形・長いまつげ",
+      "parts": [
+        [
+          "瞳",
+          "琥珀・アーモンド形・長いまつげ"
+        ]
+      ]
+    },
+    "6_キャラプリセット:キャラクタープリセット:Alexandria:体型・特徴": {
+      "value": "tall, statuesque, lightly tanned skin",
+      "description": "Alexandria：長身・堂々とした体格・薄い日焼け",
+      "parts": [
+        [
+          "体型・特徴",
+          "長身・堂々とした体格・薄い日焼け"
+        ]
+      ]
+    },
+    "0_Illustriousクイックスタート:完成プロンプト（キャラ＋ランダムシーン）:Alexandria": {
+      "value": "@1_プロンプト基本:品質:Illustrious向け:アニメイラスト@, @6_キャラプリセット:キャラクタープリセット:Alexandria:フルセット@, @8_プロンプト構成プリセット:プロンプト構成プリセット:写真集ランダム基本@",
+      "description": "Alexandriaの外見と品質を指定し、街歩き・カフェ・私室・海辺・夜のお出かけの5シーンから選びます。",
+      "parts": [
+        [
+          "髪",
+          "深茶・長いウェーブ・ボリュームのある髪"
+        ],
+        [
+          "瞳",
+          "琥珀・アーモンド形・長いまつげ"
+        ],
+        [
+          "体型・特徴",
+          "長身・堂々とした体格・薄い日焼け"
+        ],
+        [
+          "表情",
+          "大人びた落ち着き・微笑み"
+        ]
+      ]
+    },
+    "6_キャラプリセット:キャラクタープリセット:Alioth:フルセット": {
+      "value": "1girl, solo, (navy blue hair:1.4), (long hair, high ponytail, shiny hair, swept back hair:1.3), cobalt blue eyes, long eyelashes, tall, slender, narrow shoulders, fair skin, confident, determined, smile",
+      "description": "Alioth：外見と表情をまとめた1人用のセット。",
+      "parts": [
+        [
+          "髪",
+          "紺青・長い髪・高いポニーテール"
+        ],
+        [
+          "瞳",
+          "鮮やかな青・長いまつげ"
+        ],
+        [
+          "体型・特徴",
+          "長身・細身・華奢な肩・色白"
+        ],
+        [
+          "表情",
+          "自信・決意・笑顔"
+        ]
+      ]
+    },
+    "6_キャラプリセット:キャラクタープリセット:Alioth:雰囲気・性格": {
+      "value": "confident, determined, smile",
+      "description": "Alioth：自信・決意・笑顔",
+      "parts": [
+        [
+          "表情",
+          "自信・決意・笑顔"
+        ]
+      ]
+    },
+    "6_キャラプリセット:キャラクタープリセット:Alioth:髪型": {
+      "value": "(navy blue hair:1.4), (long hair, high ponytail, shiny hair, swept back hair:1.3)",
+      "description": "Alioth：紺青・長い髪・高いポニーテール",
+      "parts": [
+        [
+          "髪",
+          "紺青・長い髪・高いポニーテール"
+        ]
+      ]
+    },
+    "6_キャラプリセット:キャラクタープリセット:Alioth:目元": {
+      "value": "cobalt blue eyes, long eyelashes",
+      "description": "Alioth：鮮やかな青・長いまつげ",
+      "parts": [
+        [
+          "瞳",
+          "鮮やかな青・長いまつげ"
+        ]
+      ]
+    },
+    "6_キャラプリセット:キャラクタープリセット:Alioth:体型・特徴": {
+      "value": "tall, slender, narrow shoulders, fair skin",
+      "description": "Alioth：長身・細身・華奢な肩・色白",
+      "parts": [
+        [
+          "体型・特徴",
+          "長身・細身・華奢な肩・色白"
+        ]
+      ]
+    },
+    "0_Illustriousクイックスタート:完成プロンプト（キャラ＋ランダムシーン）:Alioth": {
+      "value": "@1_プロンプト基本:品質:Illustrious向け:アニメイラスト@, @6_キャラプリセット:キャラクタープリセット:Alioth:フルセット@, @8_プロンプト構成プリセット:プロンプト構成プリセット:写真集ランダム基本@",
+      "description": "Aliothの外見と品質を指定し、街歩き・カフェ・私室・海辺・夜のお出かけの5シーンから選びます。",
+      "parts": [
+        [
+          "髪",
+          "紺青・長い髪・高いポニーテール"
+        ],
+        [
+          "瞳",
+          "鮮やかな青・長いまつげ"
+        ],
+        [
+          "体型・特徴",
+          "長身・細身・華奢な肩・色白"
+        ],
+        [
+          "表情",
+          "自信・決意・笑顔"
+        ]
+      ]
+    },
+    "6_キャラプリセット:キャラクタープリセット:Alchemy:フルセット": {
+      "value": "1girl, solo, (burgundy hair:1.4), (very long hair, side braid, loose braid, shiny hair, swept bangs:1.3), golden eyes, narrow eyes, long eyelashes, slender, average height, pale ivory skin, mysterious, composed expression, slight smirk",
+      "description": "Alchemy：外見と表情をまとめた1人用のセット。",
+      "parts": [
+        [
+          "髪",
+          "ワインレッド・長いサイド三つ編み"
+        ],
+        [
+          "瞳",
+          "金色・切れ長・長いまつげ"
+        ],
+        [
+          "体型・特徴",
+          "細身・平均身長・アイボリーの肌"
+        ],
+        [
+          "表情",
+          "神秘的・落ち着き・かすかな笑み"
+        ]
+      ]
+    },
+    "6_キャラプリセット:キャラクタープリセット:Alchemy:雰囲気・性格": {
+      "value": "mysterious, composed expression, slight smirk",
+      "description": "Alchemy：神秘的・落ち着き・かすかな笑み",
+      "parts": [
+        [
+          "表情",
+          "神秘的・落ち着き・かすかな笑み"
+        ]
+      ]
+    },
+    "6_キャラプリセット:キャラクタープリセット:Alchemy:髪型": {
+      "value": "(burgundy hair:1.4), (very long hair, side braid, loose braid, shiny hair, swept bangs:1.3)",
+      "description": "Alchemy：ワインレッド・長いサイド三つ編み",
+      "parts": [
+        [
+          "髪",
+          "ワインレッド・長いサイド三つ編み"
+        ]
+      ]
+    },
+    "6_キャラプリセット:キャラクタープリセット:Alchemy:目元": {
+      "value": "golden eyes, narrow eyes, long eyelashes",
+      "description": "Alchemy：金色・切れ長・長いまつげ",
+      "parts": [
+        [
+          "瞳",
+          "金色・切れ長・長いまつげ"
+        ]
+      ]
+    },
+    "6_キャラプリセット:キャラクタープリセット:Alchemy:体型・特徴": {
+      "value": "slender, average height, pale ivory skin",
+      "description": "Alchemy：細身・平均身長・アイボリーの肌",
+      "parts": [
+        [
+          "体型・特徴",
+          "細身・平均身長・アイボリーの肌"
+        ]
+      ]
+    },
+    "0_Illustriousクイックスタート:完成プロンプト（キャラ＋ランダムシーン）:Alchemy": {
+      "value": "@1_プロンプト基本:品質:Illustrious向け:アニメイラスト@, @6_キャラプリセット:キャラクタープリセット:Alchemy:フルセット@, @8_プロンプト構成プリセット:プロンプト構成プリセット:写真集ランダム基本@",
+      "description": "Alchemyの外見と品質を指定し、街歩き・カフェ・私室・海辺・夜のお出かけの5シーンから選びます。",
+      "parts": [
+        [
+          "髪",
+          "ワインレッド・長いサイド三つ編み"
+        ],
+        [
+          "瞳",
+          "金色・切れ長・長いまつげ"
+        ],
+        [
+          "体型・特徴",
+          "細身・平均身長・アイボリーの肌"
+        ],
+        [
+          "表情",
+          "神秘的・落ち着き・かすかな笑み"
+        ]
+      ]
+    },
+    "6_キャラプリセット:キャラクタープリセット:Alcor:フルセット": {
+      "value": "1girl, solo, (pale lavender hair:1.4), (bob cut, wavy hair, swept bangs, hair tucked behind ear:1.3), pale gray eyes, long eyelashes, petite, slender, pale skin, calm expression, thoughtful, light smile",
+      "description": "Alcor：外見と表情をまとめた1人用のセット。",
+      "parts": [
+        [
+          "髪",
+          "淡ラベンダー・ゆるいウェーブのボブ・耳かけ"
+        ],
+        [
+          "瞳",
+          "薄灰・長いまつげ"
+        ],
+        [
+          "体型・特徴",
+          "小柄・細身・色白"
+        ],
+        [
+          "表情",
+          "穏やか・物思い・微笑み"
+        ]
+      ]
+    },
+    "6_キャラプリセット:キャラクタープリセット:Alcor:雰囲気・性格": {
+      "value": "calm expression, thoughtful, light smile",
+      "description": "Alcor：穏やか・物思い・微笑み",
+      "parts": [
+        [
+          "表情",
+          "穏やか・物思い・微笑み"
+        ]
+      ]
+    },
+    "6_キャラプリセット:キャラクタープリセット:Alcor:髪型": {
+      "value": "(pale lavender hair:1.4), (bob cut, wavy hair, swept bangs, hair tucked behind ear:1.3)",
+      "description": "Alcor：淡ラベンダー・ゆるいウェーブのボブ・耳かけ",
+      "parts": [
+        [
+          "髪",
+          "淡ラベンダー・ゆるいウェーブのボブ・耳かけ"
+        ]
+      ]
+    },
+    "6_キャラプリセット:キャラクタープリセット:Alcor:目元": {
+      "value": "pale gray eyes, long eyelashes",
+      "description": "Alcor：薄灰・長いまつげ",
+      "parts": [
+        [
+          "瞳",
+          "薄灰・長いまつげ"
+        ]
+      ]
+    },
+    "6_キャラプリセット:キャラクタープリセット:Alcor:体型・特徴": {
+      "value": "petite, slender, pale skin",
+      "description": "Alcor：小柄・細身・色白",
+      "parts": [
+        [
+          "体型・特徴",
+          "小柄・細身・色白"
+        ]
+      ]
+    },
+    "0_Illustriousクイックスタート:完成プロンプト（キャラ＋ランダムシーン）:Alcor": {
+      "value": "@1_プロンプト基本:品質:Illustrious向け:アニメイラスト@, @6_キャラプリセット:キャラクタープリセット:Alcor:フルセット@, @8_プロンプト構成プリセット:プロンプト構成プリセット:写真集ランダム基本@",
+      "description": "Alcorの外見と品質を指定し、街歩き・カフェ・私室・海辺・夜のお出かけの5シーンから選びます。",
+      "parts": [
+        [
+          "髪",
+          "淡ラベンダー・ゆるいウェーブのボブ・耳かけ"
+        ],
+        [
+          "瞳",
+          "薄灰・長いまつげ"
+        ],
+        [
+          "体型・特徴",
+          "小柄・細身・色白"
+        ],
+        [
+          "表情",
+          "穏やか・物思い・微笑み"
+        ]
+      ]
+    },
+    "8_プロンプト構成プリセット:プロンプト構成プリセット:写真集 - カフェ:朝カフェ": {
+      "value": "@8_プロンプト構成プリセット:ランダム素材:カフェの場所@, morning, window, sunlight, @3_服装:コーディネート:写真集 - カフェ・日常@, @8_プロンプト構成プリセット:ランダム素材:カフェの仕草@, @8_プロンプト構成プリセット:ランダム素材:汎用視線@, @8_プロンプト構成プリセット:ランダム素材:座り姿の画角@, @8_プロンプト構成プリセット:ランダム素材:配置@",
+      "description": "朝のカフェ。服装・座り姿・視線・画角・配置を変えます。"
+    },
+    "8_プロンプト構成プリセット:プロンプト構成プリセット:写真集 - カフェ:雨の日カフェ": {
+      "value": "@8_プロンプト構成プリセット:ランダム素材:カフェの場所@, day, window, rain outside, raindrops on window, @3_服装:コーディネート:写真集 - カフェ・日常@, @8_プロンプト構成プリセット:ランダム素材:カフェの仕草@, @8_プロンプト構成プリセット:ランダム素材:汎用視線@, @8_プロンプト構成プリセット:ランダム素材:座り姿の画角@, @8_プロンプト構成プリセット:ランダム素材:配置@, @8_プロンプト構成プリセット:ランダム素材:柔らかい背景@",
+      "description": "窓の外に雨が見える昼のカフェ。人物は室内にいます。"
+    },
+    "8_プロンプト構成プリセット:プロンプト構成プリセット:写真集 - カフェ:読書カフェ": {
+      "value": "@8_プロンプト構成プリセット:ランダム素材:カフェの場所@, @8_プロンプト構成プリセット:ランダム素材:昼の室内光@, @3_服装:コーディネート:写真集 - フレンチ・クラシック@, sitting, reading book, looking at book, @8_プロンプト構成プリセット:ランダム素材:座り姿の画角@, @8_プロンプト構成プリセット:ランダム素材:配置@",
+      "description": "カフェで座って本を読む場面。本を見る視線を固定しています。"
+    },
+    "8_プロンプト構成プリセット:プロンプト構成プリセット:写真集 - カフェ:テラスカフェ": {
+      "value": "outdoors, outdoor cafe, day, sunlight, @3_服装:コーディネート:写真集 - カフェ・日常@, @8_プロンプト構成プリセット:ランダム素材:カフェの仕草@, @8_プロンプト構成プリセット:ランダム素材:汎用視線@, @8_プロンプト構成プリセット:ランダム素材:座り姿の画角@, @8_プロンプト構成プリセット:ランダム素材:配置@",
+      "description": "昼の屋外カフェ。座り姿と服装を変えます。"
+    },
+    "8_プロンプト構成プリセット:プロンプト構成プリセット:写真集 - カフェ:夜カフェ": {
+      "value": "@8_プロンプト構成プリセット:ランダム素材:カフェの場所@, night, warm indoor lighting, @3_服装:コーディネート:写真集 - 夜のお出かけ・ドレス@, @8_プロンプト構成プリセット:ランダム素材:カフェの仕草@, @8_プロンプト構成プリセット:ランダム素材:汎用視線@, @8_プロンプト構成プリセット:ランダム素材:座り姿の画角@, @8_プロンプト構成プリセット:ランダム素材:配置@",
+      "description": "夜のカフェ。暖色の室内光と夜のお出かけ用の服装を組み合わせます。"
+    },
+    "8_プロンプト構成プリセット:プロンプト構成プリセット:写真集 - 私室:朝の部屋": {
+      "value": "@8_プロンプト構成プリセット:ランダム素材:私室の場所@, morning, window, sunlight, @3_服装:コーディネート:写真集 - ルームウェア・私室@, @8_プロンプト構成プリセット:ランダム素材:私室の仕草@, @8_プロンプト構成プリセット:ランダム素材:汎用視線@, @8_プロンプト構成プリセット:ランダム素材:人物の画角@, @8_プロンプト構成プリセット:ランダム素材:配置@",
+      "description": "朝の私室。窓からの日光とルームウェアを組み合わせます。"
+    },
+    "8_プロンプト構成プリセット:プロンプト構成プリセット:写真集 - 私室:読書部屋": {
+      "value": "indoors, study room, day, window, soft lighting, @3_服装:コーディネート:写真集 - ルームウェア・私室@, sitting, reading book, looking at book, @8_プロンプト構成プリセット:ランダム素材:座り姿の画角@, @8_プロンプト構成プリセット:ランダム素材:配置@",
+      "description": "昼の書斎で読書。本を見る視線を固定しています。"
+    },
+    "8_プロンプト構成プリセット:プロンプト構成プリセット:写真集 - 私室:ホテルルーム": {
+      "value": "indoors, hotel room, night, warm indoor lighting, @3_服装:コーディネート:写真集 - ルームウェア・私室@, @8_プロンプト構成プリセット:ランダム素材:私室の仕草@, @8_プロンプト構成プリセット:ランダム素材:汎用視線@, @8_プロンプト構成プリセット:ランダム素材:人物の画角@, @8_プロンプト構成プリセット:ランダム素材:配置@",
+      "description": "夜のホテルの室内。暖色光とルームウェアを組み合わせます。"
+    },
+    "8_プロンプト構成プリセット:プロンプト構成プリセット:写真集 - 私室:窓辺ポートレート": {
+      "value": "indoors, living room, day, window, sunlight, @3_服装:コーディネート:写真集 - ベーシック私服@, standing by window, @8_プロンプト構成プリセット:ランダム素材:汎用視線@, @8_プロンプト構成プリセット:ランダム素材:人物の画角@, @8_プロンプト構成プリセット:ランダム素材:配置@, @8_プロンプト構成プリセット:ランダム素材:柔らかい背景@",
+      "description": "昼のリビングの窓辺に立つ場面。服装と背景のぼかしを変えます。"
+    },
+    "8_プロンプト構成プリセット:プロンプト構成プリセット:写真集 - 旅行・リゾート:美術館デート": {
+      "value": "indoors, art museum, gallery, soft lighting, @3_服装:コーディネート:写真集 - 旅行・街歩き@, standing, @8_プロンプト構成プリセット:ランダム素材:汎用視線@, @8_プロンプト構成プリセット:ランダム素材:人物の画角@, @8_プロンプト構成プリセット:ランダム素材:配置@",
+      "description": "美術館の展示室。立ち姿と柔らかい光のセットです。"
+    },
+    "8_プロンプト構成プリセット:プロンプト構成プリセット:写真集 - 旅行・リゾート:空港スナップ": {
+      "value": "indoors, airport terminal, day, window, sunlight, @3_服装:コーディネート:写真集 - 旅行・街歩き@, @8_プロンプト構成プリセット:ランダム素材:立ち姿・散歩@, @8_プロンプト構成プリセット:ランダム素材:汎用視線@, @8_プロンプト構成プリセット:ランダム素材:人物の画角@, @8_プロンプト構成プリセット:ランダム素材:配置@",
+      "description": "昼の空港ターミナル。服装と立ち姿・歩く仕草を変えます。"
+    },
+    "8_プロンプト構成プリセット:プロンプト構成プリセット:写真集 - 表紙・章構成:表紙ポートレート": {
+      "value": "simple background, @3_服装:コーディネート:写真集 - ミニマル・モード@, standing, looking at viewer, upper body, centered composition, cover illustration",
+      "description": "シンプルな背景・上半身・正面の視線・中央配置。服装を変えます。"
+    },
+    "8_プロンプト構成プリセット:プロンプト構成プリセット:写真集 - 表紙・章構成:余白のある締めカット": {
+      "value": "outdoors, seaside, sunset, warm lighting, @3_服装:コーディネート:写真集 - リゾート・海辺@, standing, full body, wide shot, @8_プロンプト構成プリセット:ランダム素材:汎用視線@, @8_プロンプト構成プリセット:ランダム素材:余白のある配置@",
+      "description": "夕暮れの海辺。全身と引きの画角を固定し、人物を左右のどちらかに配置します。"
+    }
+  }
+}
